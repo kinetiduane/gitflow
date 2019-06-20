@@ -38,6 +38,7 @@ SCRIPT_FILES+=git-flow-feature
 SCRIPT_FILES+=git-flow-hotfix
 SCRIPT_FILES+=git-flow-release
 SCRIPT_FILES+=git-flow-support
+SCRIPT_FILES+=git-flow-environment
 SCRIPT_FILES+=git-flow-version
 SCRIPT_FILES+=gitflow-common
 SCRIPT_FILES+=gitflow-shFlags
